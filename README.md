@@ -3,10 +3,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=200&section=header&text=BEM-VINDO%20AO%20MEU%20TERMINAL&fontSize=50&animation=fadeIn" />
 </p>
 
-👤 <samp>quem_sou_eu.sh</samp>
+👤 quem sou eu 
 Status: Desenvolvedor em busca do código perfeito (ou pelo menos um que não dê erro na sexta-feira).
 Missão: Transformar bugs complexos em funcionalidades elegantes.
-Combustível: ☕ Café em doses industriais e playlists de Lo-Fi.
+Combustível: ☕ Café em doses industriais e playlists de trap.
 
 ---
 🛠️ Meu Arsenal de Skills
