@@ -1,4 +1,4 @@
-⚡ System.out.println("Olá, Mundo!");
+⚡ Olá, Mundo!
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=00b4d8&height=200&section=header&text=BEM-VINDO%20AO%20MEU%20TERMINAL&fontSize=50&animation=fadeIn" />
 </p>
