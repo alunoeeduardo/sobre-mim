@@ -22,14 +22,6 @@ Combustível: ☕ Café em doses industriais e playlists de Lo-Fi.
 
 ---
 
-📊 Relatório de Atividade
-<p align="center">
-<img width="400" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_AQUI&show_icons=true&theme=radical&include_all_commits=true&count_private=true" />
-<img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_AQUI&layout=compact&theme=radical" />
-</p>
-
----
-
 🕹️ Interactive Zone
 [!TIP]
 Você sabia? > 90% do meu tempo é lendo código, 10% é escrevendo e os outros 100% é tentando entender por que o npm install demorou tanto.
