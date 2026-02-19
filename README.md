@@ -22,16 +22,7 @@ Combustível: ☕ Café em doses industriais e playlists de Lo-Fi.
 
 ---
 
-🕹️ Interactive Zone
-[!TIP]
-Você sabia? > 90% do meu tempo é lendo código, 10% é escrevendo e os outros 100% é tentando entender por que o npm install demorou tanto.
 
-🐍 Snake Game (Minhas Contribuições)
-<p align="center">
-  <img src="https://raw.githubusercontent.com/SEU_USUARIO_AQUI/SEU_USUARIO_AQUI/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
-
----
 
 📬 Vamos trocar um loot?
 Se você tem um projeto épico ou só quer falar sobre como o ponto e vírgula é importante:
